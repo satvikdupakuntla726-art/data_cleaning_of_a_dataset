@@ -49,3 +49,9 @@ Cleaned and standardized values wherever necessary
 7️⃣ Exported the Final Cleaned Dataset
 
 Saved the cleaned version as: cleaned_data.csv
+
+#how to run
+
+pip install pandas
+python cleaning_code.py
+
